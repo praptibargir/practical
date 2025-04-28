@@ -1,0 +1,26 @@
+EXP 8- Main Method
+Steps-
+1.	Install Linux Bash Shell on Windows 11.  
+( https://youtu.be/wjbbl0TTMeo?feature=shared)
+2.	Write the following Command:-
+a. “mkdir data”
+b. “gedit client.py”-(paste the client code here)
+Note(if gedit is not installed or recognized ,pls install it)
+C. “gedit  server.py”(paste the server code here)
+d. exit
+     3. open ubuntu app.(1st for server side)
+     4. Write the following commands:-
+a. “cd data”
+b. “python3 server.py”
+     5. open ubuntu app.(2st for client side)
+           a. “cd data      b. “python3 client.py”
+6. Output :- 
+
+
+
+
+
+
+
+
+
